@@ -15,7 +15,7 @@
 }
 .base{
     background: rgb(35,235,72);
-    background: linear-gradient(180deg, rgba(35,235,72,1) 0%, rgba(223,81,189,1) 100%);
+  background: linear-gradient(180deg, rgba(35,235,72,1) 0%, rgba(86,246,125,1) 25%, rgba(139,252,173,1) 50%, rgba(251,164,221,1) 75%, rgba(223,81,189,1) 100%);
 }
 .fontbody{
     font-family: 'Varela Round', sans-serif;
